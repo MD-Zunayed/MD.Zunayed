@@ -1,22 +1,23 @@
-### Hi there 👋
+### greetings
 
 <!--
 **MD-Zunayed/MD-Zunayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently studying B.Sc. in Computer Science and Engineering.
+- 🌱 I’m currently Machine Learning, web programming, and programming languages.
+- 💼 Skilled in computer networking.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 You can reach me at md.zunayed@yahoo.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm MD Zunayed</h1>
-<h3 align="center">A passionate CSE Student</h3>
+<h1 align="center">Hi👋, I'm MD Zunayed</h1>
+<h3 align="center">A CSE Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-zunayed&label=Profile%20views&color=0e75b6&style=flat" alt="md-zunayed" /> </p>
 
