@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 
 
 
-
+- 🔭 I’m currently studying **B.Sc. in Computer Science and Engineering.**
+- 
+- 🌱 I’m currently **Machine Learning, web programming, and programming languages.**
+- 
+- 💼 Skilled in **Computer networking.**
 
 - 📫 How to reach me **md.zunayed@yahoo.com**
 
-- ⚡ Fun fact **I am Lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
