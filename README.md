@@ -1,4 +1,4 @@
-### greetings
+### greetings ![Greetings](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/MD Zunayed/https://github.com/MD-Zunayed/raw/greetings.json)
 
 <!--
 **MD-Zunayed/MD-Zunayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
